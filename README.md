@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Vaccine Analytics with IBM Cognos 📊
+# 🦠 COVID-19 Vaccine Analytics with IBM Cognos 📊 [Live](https://covidvaccineanalysis.netlify.app/)
 
 Welcome to the COVID-19 Vaccine Analytics project powered by IBM Cognos! This repository is dedicated to providing real-time insights and visualizations for COVID-19 vaccination data.
 

@@ -2,7 +2,7 @@
 
 Welcome to the COVID-19 Vaccine Analytics project powered by IBM Cognos! This repository is dedicated to providing real-time insights and visualizations for COVID-19 vaccination data.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.jpg)
 
 ## 🌍 Project Overview
 
